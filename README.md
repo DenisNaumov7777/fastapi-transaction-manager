@@ -103,7 +103,3 @@ fastapi-transaction-manager/
 
 ---
 
-*This project is designed for educational purposes and as a portfolio demonstration of secure FastAPI web development.*
-
-```
-
